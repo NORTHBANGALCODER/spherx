@@ -1,0 +1,16 @@
+{
+  "appId": "com.spherx.app",
+  "appName": "SPHERX",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#0a0a0f",
+      "showSpinner": true,
+      "spinnerColor": "#00f0ff"
+    }
+  }
+}
